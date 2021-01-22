@@ -1,1 +1,1 @@
-.
+Uses a hybrid architecture. LSTM for time series input attributes and MLP for non-time series inputs. Output for both the models are concatenated.
